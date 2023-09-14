@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Eddechy
 - 👀 I am interested in web application development, front-end and back-end
-- 🌱 I’m currently learning development Flutter and Dart
-- 💞️ I’m looking to collaborate on any project with php, html, JavaScript and mysql
 - 📫 stevens.lopez@ outlook.com
 
 <!---
