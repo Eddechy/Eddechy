@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Eddechy
-- 👀 I am interested in web application development, front-end and back-end
+- 👨🏼‍💻 I'm a Technologist in Information Systems Analysis and Development
+- 💼 I've worked with PHP and SQL
+- 👀 I'm learning and working en Javascript fornt-End / Back-End
 - 📫 stevens.lopez@ outlook.com
 
 <!---
